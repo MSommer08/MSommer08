@@ -1,6 +1,6 @@
 # Hi there, I'm Maria 👋
 I'm a **Sociologist (M. A.)** with a strong passion for technology, sports, and creative problem-solving.
-Currently, I'm studying at **42 Wolfsburg**, where I'm diving deep into **software development and systems architecture**.
+Currently, I'm studying at **42 Wolfsburg** (https://www.42wolfsburg.de), where I'm diving deep into **software development and systems architecture**.
 My goal is to combine **human understanding with technical thinking** ➡️ sociology meets software engineering ⬅️.
 
 ---
@@ -37,3 +37,4 @@ My goal is to combine **human understanding with technical thinking** ➡️ soc
 ---
 
 #### Stay Tuned ####
+**Feel free to check out my repositories**
